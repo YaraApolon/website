@@ -37,7 +37,7 @@ export function Hero() {
         </h1>
 
         <p className="animate-in fade-in slide-in-from-bottom-4 mt-6 max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground delay-150 duration-700 fill-mode-both">
-          Get a custom-made website for your café, barber shop, or service business in just 5 days.
+          Get a custom-made website for your café, barber shop, or service business in just 3 days.
         </p>
 
         <div className="animate-in fade-in slide-in-from-bottom-4 mt-10 flex flex-col gap-4 delay-300 duration-700 fill-mode-both sm:flex-row sm:items-center">
