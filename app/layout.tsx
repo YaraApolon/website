@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono'
 export const metadata: Metadata = {
   title: 'Yaroslav Apolonin — Websites That Grow Local Businesses',
   description:
-    'Freelance web developer building high-converting websites for cafés, barber shops, and service businesses. Launch a custom site in just 5 days.',
+    'Freelance web developer building high-converting websites for cafés, barber shops, and service businesses. Launch a custom site in just 3 days.',
   generator: 'v0.app',
 }
 

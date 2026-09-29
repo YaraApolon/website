@@ -45,7 +45,7 @@ export function Hero() {
             href="#contact"
             className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-7 py-4 font-medium text-primary-foreground shadow-[0_0_40px_-8px] shadow-primary/60 transition-transform hover:-translate-y-0.5"
           >
-            Get a Free Website Mockup
+            Get a Free Website Preview
             <ArrowRight className="size-4 transition-transform group-hover:translate-x-1" />
           </a>
           <a
