@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { ArrowRight, Check } from 'lucide-react'
 
-const highlights = ['Launch in 5 days', 'Mobile-first design', 'Built to convert']
+const highlights = ['Launch in 3 days', 'Mobile-first design', 'Built to convert']
 
 export function Hero() {
   return (
